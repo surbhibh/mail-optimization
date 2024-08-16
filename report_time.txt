@@ -1,0 +1,246 @@
+python send_offer_letters.py 
+Skipping Surbhi Bh as the offer has already been sent.                                                                             
+Skipping Ruchi Rao as the offer has already been sent.                                                                             
+Skipping Chetan Rao as the offer has already been sent.
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:06<00:00,  6.50s/it]
+Generated PDF for Neha Verma at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Neha Verma_20240816173212.pdf
+Email sent to junosharma09@gmail.com
+Processed Neha Verma in 13.56 seconds. (1/63 records processed)
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.41s/it]
+Generated PDF for Priya Singh at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Priya Singh_20240816173226.pdf
+Email sent to junosharma09@gmail.com
+Processed Priya Singh in 10.88 seconds. (2/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.53s/it]
+Generated PDF for Chetan Rao at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Chetan Rao_20240816173237.pdf
+Email sent to surbhibh02@gmail.com
+Processed Chetan Rao in 9.38 seconds. (3/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.83s/it]
+Generated PDF for Aman Gupta at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Aman Gupta_20240816173246.pdf
+Email sent to surbhibhadviya0912@outlook.com
+Processed Aman Gupta in 9.41 seconds. (4/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.22s/it]
+Generated PDF for Pooja Mehta at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Pooja Mehta_20240816173256.pdf
+Email sent to surbhibhadvia@gmail.com
+Processed Pooja Mehta in 9.16 seconds. (5/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.19s/it]
+Generated PDF for Rajesh Patel at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Rajesh Patel_20240816173305.pdf
+Email sent to chetanrao0486@gmail.com
+Processed Rajesh Patel in 10.43 seconds. (6/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.21s/it]
+Generated PDF for Aman Gupta at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Aman Gupta_20240816173315.pdf
+Email sent to chetanrao0486@gmail.com
+Processed Aman Gupta in 8.90 seconds. (7/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.23s/it]
+Generated PDF for Ruchi Rao at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Ruchi Rao_20240816173324.pdf
+Email sent to surbhibhadviya0912@outlook.com
+Processed Ruchi Rao in 9.13 seconds. (8/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.61s/it]
+Generated PDF for Chetan Rao at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Chetan Rao_20240816173333.pdf
+Email sent to chetanrao0486@gmail.com
+Processed Chetan Rao in 9.77 seconds. (9/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.52s/it]
+Generated PDF for Priya Singh at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Priya Singh_20240816173343.pdf
+Email sent to surbhibhadvia@gmail.com
+Processed Priya Singh in 10.25 seconds. (10/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.40s/it]
+Generated PDF for Juno Sharma at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Juno Sharma_20240816173353.pdf
+Email sent to surbhibh02@gmail.com
+Processed Juno Sharma in 9.92 seconds. (11/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.49s/it]
+Generated PDF for Rajesh Patel at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Rajesh Patel_20240816173403.pdf
+Email sent to junosharma09@gmail.com
+Processed Rajesh Patel in 9.73 seconds. (12/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:07<00:00,  7.40s/it]
+Generated PDF for Neha Verma at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Neha Verma_20240816173413.pdf
+Email sent to chetanrao0486@gmail.com
+Processed Neha Verma in 11.92 seconds. (13/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.21s/it]
+Generated PDF for Aman Gupta at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Aman Gupta_20240816173425.pdf
+Email sent to junosharma09@gmail.com
+Processed Aman Gupta in 10.54 seconds. (14/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.02s/it]
+Generated PDF for Juno Sharma at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Juno Sharma_20240816173435.pdf
+Email sent to surbhibh02@gmail.com
+Processed Juno Sharma in 11.15 seconds. (15/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.02s/it]
+Generated PDF for Neha Verma at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Neha Verma_20240816173447.pdf
+Email sent to surbhibhadviya0912@outlook.com
+Processed Neha Verma in 8.56 seconds. (16/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.56s/it]
+Generated PDF for Ruchi Rao at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Ruchi Rao_20240816173455.pdf
+Email sent to surbhibhadvia@gmail.com
+Processed Ruchi Rao in 9.26 seconds. (17/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.73s/it]
+Generated PDF for Surbhi Bh at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Surbhi Bh_20240816173504.pdf
+Email sent to surbhibhadvia@gmail.com
+Processed Surbhi Bh in 9.24 seconds. (18/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.14s/it]
+Generated PDF for Surbhi Bh at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Surbhi Bh_20240816173514.pdf
+Email sent to junosharma09@gmail.com
+Processed Surbhi Bh in 8.89 seconds. (19/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.95s/it]
+Generated PDF for Rohan Desai at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Rohan Desai_20240816173523.pdf
+Email sent to chetanrao0486@gmail.com
+Processed Rohan Desai in 11.09 seconds. (20/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.45s/it]
+Generated PDF for Neha Verma at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Neha Verma_20240816173534.pdf
+Email sent to junosharma09@gmail.com
+Processed Neha Verma in 8.90 seconds. (21/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.36s/it]
+Generated PDF for Priya Singh at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Priya Singh_20240816173543.pdf
+Email sent to junosharma09@gmail.com
+Processed Priya Singh in 10.32 seconds. (22/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.80s/it]
+Generated PDF for Chetan Rao at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Chetan Rao_20240816173553.pdf
+Email sent to surbhibh02@gmail.com
+Processed Chetan Rao in 10.14 seconds. (23/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.46s/it]
+Generated PDF for Aman Gupta at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Aman Gupta_20240816173603.pdf
+Email sent to surbhibhadviya0912@outlook.com
+Processed Aman Gupta in 9.78 seconds. (24/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.53s/it]
+Generated PDF for Pooja Mehta at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Pooja Mehta_20240816173613.pdf
+Email sent to surbhibhadvia@gmail.com
+Processed Pooja Mehta in 10.09 seconds. (25/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.54s/it]
+Generated PDF for Rajesh Patel at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Rajesh Patel_20240816173623.pdf
+Email sent to chetanrao0486@gmail.com
+Processed Rajesh Patel in 9.78 seconds. (26/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.13s/it]
+Generated PDF for Aman Gupta at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Aman Gupta_20240816173633.pdf
+Email sent to chetanrao0486@gmail.com
+Processed Aman Gupta in 9.67 seconds. (27/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.81s/it]
+Generated PDF for Ruchi Rao at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Ruchi Rao_20240816173642.pdf
+Email sent to surbhibhadviya0912@outlook.com
+Processed Ruchi Rao in 8.96 seconds. (28/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.44s/it]
+Generated PDF for Chetan Rao at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Chetan Rao_20240816173651.pdf
+Email sent to chetanrao0486@gmail.com
+Processed Chetan Rao in 10.01 seconds. (29/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.30s/it]
+Generated PDF for Priya Singh at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Priya Singh_20240816173701.pdf
+Email sent to surbhibhadvia@gmail.com
+Processed Priya Singh in 9.86 seconds. (30/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:06<00:00,  6.97s/it]
+Generated PDF for Juno Sharma at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Juno Sharma_20240816173711.pdf
+Email sent to surbhibh02@gmail.com
+Processed Juno Sharma in 11.25 seconds. (31/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.22s/it]
+Generated PDF for Rajesh Patel at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Rajesh Patel_20240816173722.pdf
+Email sent to junosharma09@gmail.com
+Processed Rajesh Patel in 10.23 seconds. (32/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.32s/it]
+Generated PDF for Neha Verma at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Neha Verma_20240816173733.pdf
+Email sent to chetanrao0486@gmail.com
+Processed Neha Verma in 10.18 seconds. (33/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.49s/it]
+Generated PDF for Aman Gupta at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Aman Gupta_20240816173743.pdf
+Email sent to junosharma09@gmail.com
+Processed Aman Gupta in 9.09 seconds. (34/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.08s/it]
+Generated PDF for Juno Sharma at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Juno Sharma_20240816173752.pdf
+Email sent to surbhibh02@gmail.com
+Processed Juno Sharma in 9.88 seconds. (35/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.34s/it]
+Generated PDF for Neha Verma at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Neha Verma_20240816173802.pdf
+Email sent to surbhibhadviya0912@outlook.com
+Processed Neha Verma in 8.81 seconds. (36/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.20s/it]
+Generated PDF for Ruchi Rao at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Ruchi Rao_20240816173811.pdf
+Email sent to surbhibhadvia@gmail.com
+Processed Ruchi Rao in 10.83 seconds. (37/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:06<00:00,  6.73s/it]
+Generated PDF for Surbhi Bh at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Surbhi Bh_20240816173821.pdf
+Email sent to surbhibhadvia@gmail.com
+Processed Surbhi Bh in 12.51 seconds. (38/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.80s/it]
+Generated PDF for Surbhi Bh at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Surbhi Bh_20240816173834.pdf
+Email sent to junosharma09@gmail.com
+Processed Surbhi Bh in 9.89 seconds. (39/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.25s/it]
+Generated PDF for Rohan Desai at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Rohan Desai_20240816173844.pdf
+Email sent to chetanrao0486@gmail.com
+Processed Rohan Desai in 9.21 seconds. (40/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.36s/it]
+Generated PDF for Neha Verma at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Neha Verma_20240816173853.pdf
+Email sent to junosharma09@gmail.com
+Processed Neha Verma in 10.61 seconds. (41/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.91s/it]
+Generated PDF for Priya Singh at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Priya Singh_20240816173904.pdf
+Email sent to junosharma09@gmail.com
+Processed Priya Singh in 9.50 seconds. (42/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.45s/it]
+Generated PDF for Chetan Rao at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Chetan Rao_20240816173913.pdf
+Email sent to surbhibh02@gmail.com
+Processed Chetan Rao in 8.84 seconds. (43/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.52s/it]
+Generated PDF for Aman Gupta at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Aman Gupta_20240816173922.pdf
+Email sent to surbhibhadviya0912@outlook.com
+Processed Aman Gupta in 10.61 seconds. (44/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.62s/it]
+Generated PDF for Pooja Mehta at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Pooja Mehta_20240816173933.pdf
+Email sent to surbhibhadvia@gmail.com
+Processed Pooja Mehta in 11.12 seconds. (45/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.76s/it]
+Generated PDF for Rajesh Patel at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Rajesh Patel_20240816173944.pdf
+Email sent to chetanrao0486@gmail.com
+Processed Rajesh Patel in 9.98 seconds. (46/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.67s/it]
+Generated PDF for Aman Gupta at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Aman Gupta_20240816173954.pdf
+Email sent to chetanrao0486@gmail.com
+Processed Aman Gupta in 8.84 seconds. (47/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.23s/it]
+Generated PDF for Ruchi Rao at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Ruchi Rao_20240816174003.pdf
+Email sent to surbhibhadviya0912@outlook.com
+Processed Ruchi Rao in 8.51 seconds. (48/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.90s/it]
+Generated PDF for Chetan Rao at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Chetan Rao_20240816174011.pdf
+Email sent to chetanrao0486@gmail.com
+Processed Chetan Rao in 9.42 seconds. (49/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.61s/it]
+Generated PDF for Priya Singh at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Priya Singh_20240816174021.pdf
+Email sent to surbhibhadvia@gmail.com
+Processed Priya Singh in 10.33 seconds. (50/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.79s/it]
+Generated PDF for Juno Sharma at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Juno Sharma_20240816174031.pdf
+Email sent to surbhibh02@gmail.com
+Processed Juno Sharma in 10.18 seconds. (51/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.81s/it]
+Generated PDF for Rajesh Patel at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Rajesh Patel_20240816174041.pdf
+Email sent to junosharma09@gmail.com
+Processed Rajesh Patel in 11.08 seconds. (52/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.62s/it]
+Generated PDF for Neha Verma at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Neha Verma_20240816174052.pdf
+Email sent to chetanrao0486@gmail.com
+Processed Neha Verma in 10.89 seconds. (53/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.19s/it]
+Generated PDF for Aman Gupta at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Aman Gupta_20240816174103.pdf
+Email sent to junosharma09@gmail.com
+Processed Aman Gupta in 10.07 seconds. (54/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:05<00:00,  5.18s/it]
+Generated PDF for Juno Sharma at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Juno Sharma_20240816174113.pdf
+Email sent to surbhibh02@gmail.com
+Processed Juno Sharma in 11.48 seconds. (55/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.81s/it]
+Generated PDF for Neha Verma at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Neha Verma_20240816174125.pdf
+Email sent to surbhibhadviya0912@outlook.com
+Processed Neha Verma in 10.80 seconds. (56/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.91s/it]
+Generated PDF for Ruchi Rao at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Ruchi Rao_20240816174135.pdf
+Email sent to surbhibhadvia@gmail.com
+Processed Ruchi Rao in 10.54 seconds. (57/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.10s/it]
+Generated PDF for Surbhi Bh at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Surbhi Bh_20240816174146.pdf
+Email sent to surbhibhadvia@gmail.com
+Processed Surbhi Bh in 9.00 seconds. (58/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:04<00:00,  4.71s/it]
+Generated PDF for Surbhi Bh at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Surbhi Bh_20240816174155.pdf
+Email sent to junosharma09@gmail.com
+Processed Surbhi Bh in 9.53 seconds. (59/63 records processed)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:07<00:00,  7.93s/it]
+Generated PDF for Rohan Desai at /Users/bhadvsur/Library/CloudStorage/OneDrive-adidas/Documents/adiRepo/mailMerger/2024-08-16/Offer_Letter_Rohan Desai_20240816174204.pdf
+Email sent to chetanrao0486@gmail.com
+Processed Rohan Desai in 13.26 seconds. (60/63 records processed)
+All emails processed and offer statuses updated!
+Total time taken: 605.36 seconds.
